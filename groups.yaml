@@ -1,0 +1,5 @@
+---
+cisco_devices:
+  platform: "cisco_xe"
+  username: "cisco"
+  password: "cisco"
