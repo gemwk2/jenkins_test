@@ -1,0 +1,12 @@
+---
+host1:
+  hostname: "10.70.70.21"
+  groups:
+    - cisco_devices
+  port: 22
+
+host2:
+  hostname: "10.70.70.22"
+  groups:
+    - cisco_devices
+  port: 22
