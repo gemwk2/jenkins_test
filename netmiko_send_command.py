@@ -11,4 +11,3 @@ def show_command_test(task):
 
 results = nr.run(task=show_command_test)
 print_result(results)
-print("TEST")
